@@ -61,6 +61,7 @@ int main() {
     Cipher(in, out, w);
     
     // Output the encrypted data
+    printf("Encrypted Cipher: ");
     for (int i = 0; i < 4 * Nb; ++i) {
         printf("%02x ", out[i]);
     }
