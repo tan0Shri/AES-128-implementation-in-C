@@ -1,5 +1,3 @@
-# AES-128-implementation-in-C
+# AES-128-implementation-using-C
 
-This project involves implementing the AES-128 standard based on the NIST FIPS 197 paper. 
-
-
+This project involves implementing the AES-128 standard based on the NIST FIPS 197 paper.
